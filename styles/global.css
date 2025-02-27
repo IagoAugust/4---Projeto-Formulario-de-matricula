@@ -21,6 +21,7 @@
   --stroke-highlight: #F3541C;
   --semantic-error: #DC2626;
 
+  zoom: 80%;
 }
 
 
@@ -39,3 +40,4 @@ img{
   max-width: 100%;
   height: auto;
 }
+
